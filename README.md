@@ -22,13 +22,9 @@ In order to run the code follow the below given steps:
 
 #### Video2 (video that should be played on the frame defined on Video1):
 ![image](https://user-images.githubusercontent.com/70062653/146636223-e4a68864-e14c-4b7b-a0e2-6e05352bc783.png)
-![146636262-c1ac0d71-c6aa-4cd3-bbcb-7a8b0ce22daa](https://user-images.githubusercontent.com/70062653/146636368-d6372edf-c82a-4f98-9f12-aba43c818c00.png)
 
 #### User Marked corners :
 User will be asked to mark the corners in the video1 once the code is executed
-
-![146636262-c1ac0d71-c6aa-4cd3-bbcb-7a8b0ce22daa](https://user-images.githubusercontent.com/70062653/146636370-a6307762-8a04-404f-8d3a-628d3540135c.png)
-
 
 Image after the user has defined the corners in the first frame of video1:
 
